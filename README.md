@@ -1,7 +1,7 @@
 QUANTUM_MY_WORK 
 ---------------
 
-# Trust Chain
+ Trust Chain
 --------------
 
 Trust Chain is a decentralized social media platform built on blockchain. It uses AI to analyze and detect sensitive content in posts, ensuring a secure and transparent environment for users.
